@@ -1,0 +1,13 @@
+<div class="card shadow">
+
+    <img id="profile_img" src="/assets/profile.jpg" alt="profile image">
+
+    <div>
+        {% for item in site.data.settings.social %}
+            <a href="{{ item.link }}">
+                <i class="fa{{ item.type }} fa-{{ item.icon }}" aria-hidden="true"></i>
+            </a>
+        {% endfor %}
+    </div>
+
+</div>
