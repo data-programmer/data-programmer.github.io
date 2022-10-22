@@ -1,0 +1,34 @@
+title: William Kingsley
+author: William Kingsley
+avatar: profile.jpg
+description: A professional website for showcasing my projects and work experience.
+graduate: Georgia Institute of Technology
+undergraduate: Montana State University
+associates: Great Falls College Montana State University
+email: williamikingsley@outlook.com
+url: https://williamkingsley.com
+githuburl: https://github.com/data-programmer/data-programmer.github.io
+
+meta:
+  lang: "en-US"
+
+css:
+  site: "assets/css/style.css"
+
+nav:
+  - {name: "Home", url: ""}
+  - {name: "Projects", url: "projects"}
+  - {name: "Resume", url: ""}
+
+docs:
+  - {name: "Resume", url: "/assets/resume/resume.pdf"}
+
+handles:
+  linkedin: ''
+
+social:
+  - {icon: 'envelope', type: 's', link: 'mailto:williamikingsley@outlook.com'}
+  - {icon: 'github', type: 'b', link: 'https://github.com/data-programmer'}
+  - {icon: 'linkedin', type: 'b', link: 'www.linkedin.com/in/williamkingsley'}
+
+google-id: ''
