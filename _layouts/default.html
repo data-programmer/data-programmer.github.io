@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
-    <link rel="stylesheet" href="{{ site.data.settings.css.site }}">
+    <link rel="stylesheet" href="/{{ site.data.settings.css.site }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -15,12 +15,12 @@
     <div class="wrapper">
       <header>
         <h1>
-          <a href="{{ site.data.settings.url }}">{{ site.title }}</a>
+          <a href="/{{ site.data.settings.url }}">{{ site.data.settings.title }}</a>
         </h1>
 
         {% include contact.html %}
 
-        <p>{{ site.description }}</p>
+        <p>{{ site.data.settings.description }}</p>
 
         {% include downloads.html %}
       </header>
@@ -33,6 +33,6 @@
       {% include footer.html %}
 
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' }}"></script>
+    <script src="/assets/js/scale.fix.js"></script>
   </body>
 </html>
