@@ -2,14 +2,6 @@
 layout: default
 ---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
 ## Language Skills and Tools
 
 {% include skills.html %}
@@ -26,118 +18,206 @@ var fun = function lang(l) {
 
 {% include education.html %}
 
+[//]: # (```js)
 
+[//]: # (// Javascript code with syntax highlighting.)
 
+[//]: # (var fun = function lang&#40;l&#41; {)
 
+[//]: # (  dateformat.i18n = require&#40;'./lang/' + l&#41;)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[//]: # (  return true;)
 
-[Link to another page](./another-page.html).
+[//]: # (})
 
-There should be whitespace between paragraphs.
+[//]: # (```)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[//]: # (Text can be **bold**, _italic_, or ~~strikethrough~~.)
 
-# Header 1
+[//]: # ()
+[//]: # ([Link to another page]&#40;./another-page.html&#41;.)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[//]: # ()
+[//]: # (There should be whitespace between paragraphs.)
 
-## Header 2
+[//]: # ()
+[//]: # (There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[//]: # ()
+[//]: # (# Header 1)
 
-### Header 3
+[//]: # ()
+[//]: # (This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[//]: # ()
+[//]: # (## Header 2)
 
-#### Header 4
+[//]: # ()
+[//]: # (> This is a blockquote following a header.)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[//]: # (>)
 
-##### Header 5
+[//]: # (> When something is important enough, you do it even if the odds are not in your favor.)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[//]: # ()
+[//]: # (### Header 3)
 
-###### Header 6
+[//]: # ()
+[//]: # (```ruby)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[//]: # (# Ruby code with syntax highlighting)
 
-### There's a horizontal rule below this.
+[//]: # (GitHubPages::Dependencies.gems.each do |gem, version|)
 
-* * *
+[//]: # (  s.add_dependency&#40;gem, "= #{version}"&#41;)
 
-### Here is an unordered list:
+[//]: # (end)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+[//]: # (```)
 
-### And an ordered list:
+[//]: # ()
+[//]: # (#### Header 4)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+[//]: # ()
+[//]: # (*   This is an unordered list following a header.)
 
-### And a nested list:
+[//]: # (*   This is an unordered list following a header.)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+[//]: # (*   This is an unordered list following a header.)
 
-### Small image
+[//]: # ()
+[//]: # (##### Header 5)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+[//]: # ()
+[//]: # (1.  This is an ordered list following a header.)
 
-### Large image
+[//]: # (2.  This is an ordered list following a header.)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[//]: # (3.  This is an ordered list following a header.)
 
+[//]: # ()
+[//]: # (###### Header 6)
 
-### Definition lists can be used with HTML syntax.
+[//]: # ()
+[//]: # (| head1        | head two          | three |)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[//]: # (|:-------------|:------------------|:------|)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+[//]: # (| ok           | good swedish fish | nice  |)
 
-```
-The final element.
-```
+[//]: # (| out of stock | good and plenty   | nice  |)
+
+[//]: # (| ok           | good `oreos`      | hmm   |)
+
+[//]: # (| ok           | good `zoute` drop | yumm  |)
+
+[//]: # ()
+[//]: # (### There's a horizontal rule below this.)
+
+[//]: # ()
+[//]: # (* * *)
+
+[//]: # ()
+[//]: # (### Here is an unordered list:)
+
+[//]: # ()
+[//]: # (*   Item foo)
+
+[//]: # (*   Item bar)
+
+[//]: # (*   Item baz)
+
+[//]: # (*   Item zip)
+
+[//]: # ()
+[//]: # (### And an ordered list:)
+
+[//]: # ()
+[//]: # (1.  Item one)
+
+[//]: # (1.  Item two)
+
+[//]: # (1.  Item three)
+
+[//]: # (1.  Item four)
+
+[//]: # ()
+[//]: # (### And a nested list:)
+
+[//]: # ()
+[//]: # (- level 1 item)
+
+[//]: # (  - level 2 item)
+
+[//]: # (  - level 2 item)
+
+[//]: # (    - level 3 item)
+
+[//]: # (    - level 3 item)
+
+[//]: # (- level 1 item)
+
+[//]: # (  - level 2 item)
+
+[//]: # (  - level 2 item)
+
+[//]: # (  - level 2 item)
+
+[//]: # (- level 1 item)
+
+[//]: # (  - level 2 item)
+
+[//]: # (  - level 2 item)
+
+[//]: # (- level 1 item)
+
+[//]: # ()
+[//]: # (### Small image)
+
+[//]: # ()
+[//]: # (![Octocat]&#40;https://github.githubassets.com/images/icons/emoji/octocat.png&#41;)
+
+[//]: # ()
+[//]: # (### Large image)
+
+[//]: # ()
+[//]: # (![Branching]&#40;https://guides.github.com/activities/hello-world/branching.png&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (### Definition lists can be used with HTML syntax.)
+
+[//]: # ()
+[//]: # (<dl>)
+
+[//]: # (<dt>Name</dt>)
+
+[//]: # (<dd>Godzilla</dd>)
+
+[//]: # (<dt>Born</dt>)
+
+[//]: # (<dd>1952</dd>)
+
+[//]: # (<dt>Birthplace</dt>)
+
+[//]: # (<dd>Japan</dd>)
+
+[//]: # (<dt>Color</dt>)
+
+[//]: # (<dd>Green</dd>)
+
+[//]: # (</dl>)
+
+[//]: # ()
+[//]: # (```)
+
+[//]: # (Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.)
+
+[//]: # (```)
+
+[//]: # ()
+[//]: # (```)
+
+[//]: # (The final element.)
+
+[//]: # (```)
