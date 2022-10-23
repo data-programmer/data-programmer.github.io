@@ -4,16 +4,15 @@
         <strong>{{ project.title }}</strong><p> {{ project.tech }}</p>
     </p>
     <ul>
-        <li>{{ project.desc }}</li>
-        {% if project.showpoints %}
-        <li>
+        <li>{{ project.desc }}
+            {% if project.showpoints %}
             <ul>
-                {% for point in project.points %}
-                <li>{{ point }}</li>
+                {% for item in project.points %}
+                <li>{{ item.point }}</li>
                 {% endfor %}
             </ul>
+            {% endif %}
         </li>
-        {% endif %}
     </ul>
 </div>
 {% endfor %}
