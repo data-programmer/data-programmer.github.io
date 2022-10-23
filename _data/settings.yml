@@ -9,9 +9,6 @@ githuburl: https://github.com/data-programmer/data-programmer.github.io
 meta:
   lang: "en-US"
 
-css:
-  site: "assets/css/style.css"
-
 nav:
   - {name: "Home", url: "/"}
   - {name: "Skills", url: "../#skills" }
@@ -24,12 +21,9 @@ nav:
 docs:
   - {name: "Resume", url: "/assets/resume/resume.pdf"}
 
-handles:
-  linkedin: ''
-
 social:
-  - {icon: 'envelope', type: 's', link: 'mailto:williamikingsley@outlook.com'}
-  - {icon: 'github', type: 'b', link: 'https://github.com/data-programmer'}
-  - {icon: 'linkedin', type: 'b', link: 'www.linkedin.com/in/williamkingsley'}
+  - {icon: 'bi-envelope', type: 'bi', link: 'mailto:williamikingsley@outlook.com'}
+  - {icon: 'bi-linkedin', type: 'bi', link: 'www.linkedin.com/in/williamkingsley'}
+  - {icon: 'bi-github', type: 'bi', link: 'https://github.com/data-programmer'}
 
 google-id: ''
