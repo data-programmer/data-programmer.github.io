@@ -1,6 +1,25 @@
 @import "fonts";
 @import "rouge-github";
 
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-body {
+  padding: 2px 16px;
+  text-align: center;
+  justify-content: center;
+}
+
+.icon {
+
+}
+
 body {
   background-color: #fff;
   padding:50px;

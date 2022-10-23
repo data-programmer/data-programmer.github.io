@@ -5,7 +5,7 @@
     <div class="card-body align-content-center">
         {% for item in site.data.settings.social %}
             <a href="{{ item.link }}">
-                <i class="{{ item.type }} {{ item.icon }}" aria-hidden="true"></i>
+                <img class="icon" src="{{ item.url }}" alt="icon">
             </a>
         {% endfor %}
     </div>

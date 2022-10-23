@@ -22,8 +22,8 @@ docs:
   - {name: "Resume", url: "/assets/resume/resume.pdf"}
 
 social:
-  - {icon: 'bi-envelope', type: 'bi', link: 'mailto:williamikingsley@outlook.com'}
-  - {icon: 'bi-linkedin', type: 'bi', link: 'www.linkedin.com/in/williamkingsley'}
-  - {icon: 'bi-github', type: 'bi', link: 'https://github.com/data-programmer'}
+  - {url: "/assets/icons/envelope.svg", link: 'mailto:williamikingsley@outlook.com'}
+  - {url: "/assets/icons/linkedin.svg", link: 'www.linkedin.com/in/williamkingsley'}
+  - {url: "/assets/icons/github.svg", link: 'https://github.com/data-programmer'}
 
 google-id: ''
