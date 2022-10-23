@@ -1,0 +1,14 @@
+<div>
+    <p>
+        <h4><strong>Languages: </strong></h4>
+        {% for language in site.data.skills.languages %}
+            {{ language }}
+        {% endfor %}
+    </p>
+    <p>
+        <h4><strong>Tools: </strong></h4>
+        {% for tool in site.data.skills.tools %}
+            {{ tool }}
+        {% endfor %}
+    </p>
+</div>

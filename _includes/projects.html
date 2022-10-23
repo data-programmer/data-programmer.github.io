@@ -1,8 +1,6 @@
 {% for project in site.data.projects %}
 <div>
-    <p>
-        <strong>{{ project.title }}</strong><p> {{ project.tech }}</p>
-    </p>
+    <p><strong>{{ project.title }}</strong> {{ project.tech }}</p>
     <ul>
         <li>{{ project.desc }}
             {% if project.showpoints %}
