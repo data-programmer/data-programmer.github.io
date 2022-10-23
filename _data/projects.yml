@@ -10,16 +10,17 @@
   desc: "..."
   showpoints: true
   points:
-      p1: ""
-      p2: ""
-      p3: ""
-      p4: ""
-      p5: ""
+    { point: "" }
+    { point: "" }
+    { point: "" }
+    { point: "" }
+    { point: "" }
 
 - title: "Personal Website (williamkingsley.com)"
   tech: "(Jekyll, Liquid, Github Pages, Minimal)"
   desc: "..."
   showpoints: false
+  points:
 
 - title: "Digital Badge"
   employer: "Northrop Grumman Corporation"
