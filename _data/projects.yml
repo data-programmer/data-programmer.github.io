@@ -2,31 +2,32 @@
 #   employer
 #   tech
 #   desc
+#   showpoints
 #   points
-
-- title: "Fidelity Bloom"
-  employer: "Fidelity Investments"
-  tech: "(Kotlin, Android, Jetpack Compose, ...)"
-  desc: "..."
-  showpoints: true
-  points:
-    { point: "" }
-    { point: "" }
-    { point: "" }
-    { point: "" }
-    { point: "" }
-
-- title: "Personal Website (williamkingsley.com)"
-  employer: "Personal Project"
-  tech: "(Jekyll, Liquid, Github Pages, Minimal)"
-  desc: "..."
-  showpoints: false
-  points:
-    { point: "" }
-    { point: "" }
-    { point: "" }
-    { point: "" }
-    { point: "" }
+#
+#- title: "Fidelity Bloom"
+#  employer: "Fidelity Investments"
+#  tech: "(Kotlin, Android, Jetpack Compose, ...)"
+#  desc: "..."
+#  showpoints: true
+#  points:
+#    { point: "" }
+#    { point: "" }
+#    { point: "" }
+#    { point: "" }
+#    { point: "" }
+#
+#- title: "Personal Website (williamkingsley.com)"
+#  employer: "Personal Project"
+#  tech: "(Jekyll, Liquid, Github Pages, Minimal)"
+#  desc: "..."
+#  showpoints: false
+#  points:
+#    { point: "" }
+#    { point: "" }
+#    { point: "" }
+#    { point: "" }
+#    { point: "" }
 
 - title: "Digital Badge"
   employer: "Northrop Grumman Corporation"
