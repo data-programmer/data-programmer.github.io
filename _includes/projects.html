@@ -5,6 +5,7 @@
     </p>
     <ul>
         <li>{{ project.desc }}</li>
+        {% if project.showpoints %}
         <li>
             <ul>
                 {% for point in project.points %}
@@ -12,6 +13,7 @@
                 {% endfor %}
             </ul>
         </li>
+        {% endif %}
     </ul>
 </div>
 {% endfor %}
