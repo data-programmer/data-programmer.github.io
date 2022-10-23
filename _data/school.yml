@@ -1,3 +1,12 @@
-graduate: Georgia Institute of Technology
-undergraduate: Montana State University
-associates: Great Falls College Montana State University
+- degree: "Master of Science in Computer Science, Computing Systems"
+  university: "Georgia Institute of Technology"
+  location: "Atlanta, GA"
+  expected: "Expected graduation date: May 2024"
+
+- degree: "Bachelor of Science in Computer Science, Professional Option"
+  university: "Montana State University"
+  location: "Bozeman, MT"
+
+- degree: "Associate of Science, General Option"
+  university: "Great Falls College Montana State University"
+  location: "Great Falls, MT"

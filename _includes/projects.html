@@ -1,0 +1,17 @@
+{% for project in site.data.projects %}
+<div>
+    <p>
+        <strong>{{ project.title }}</strong><p> {{ project.tech }}</p>
+    </p>
+    <ul>
+        <li>{{ project.desc }}</li>
+        <li>
+            <ul>
+                {% for point in project.points %}
+                <li>{{ point }}</li>
+                {% endfor %}
+            </ul>
+        </li>
+    </ul>
+</div>
+{% endfor %}
