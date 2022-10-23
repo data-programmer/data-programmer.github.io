@@ -1,0 +1,5 @@
+{% for nav in site.data.settings.nav %}
+<ul>
+    <li><a href="{{ nav.url }}">{{ nav.name }}</a></li>
+</ul>
+{% endfor %}

@@ -13,9 +13,9 @@ css:
   site: "assets/css/style.css"
 
 nav:
-  - {name: "Home", url: ""}
-  - {name: "Projects", url: "projects"}
-  - {name: "Resume", url: ""}
+  - {name: "Home", url: "./"}
+  - {name: "Contact", url: "/contact.html" }
+  - {name: "News", url: "/news.html"}
 
 docs:
   - {name: "Resume", url: "/assets/resume/resume.pdf"}

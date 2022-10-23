@@ -1,7 +1,7 @@
 {% for education in site.data.education %}
 <p>
-    <strong>{{ education.degree }}</strong>
-    {{ education.university }}, {{ education.location }}
+    <strong>{{ education.degree }}</strong><br>
+    {{ education.university }}, {{ education.location }}<br>
     {{ if education.showexpected }}
         {{ education.expected }}
     {{ endif }}
