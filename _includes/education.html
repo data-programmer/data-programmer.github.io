@@ -1,10 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-</body>
-</html>
+{% for education in page.data.school %}
+<p>
+    <strong>{{ education.degree }}</strong>
+    {{ education.university }}, {{ education.location }}
+    {{ if education.showexpected }}
+        {{ education.expected }}
+    {{ endif }}
+</p>
+{% endfor %}
