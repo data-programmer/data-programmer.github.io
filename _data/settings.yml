@@ -23,7 +23,7 @@ docs:
 
 social:
   - {url: "/assets/icons/envelope.svg", link: 'mailto:williamikingsley@outlook.com'}
-  - {url: "/assets/icons/linkedin.svg", link: 'www.linkedin.com/in/williamkingsley'}
+  - {url: "/assets/icons/linkedin.svg", link: 'https://www.linkedin.com/in/williamkingsley'}
   - {url: "/assets/icons/github.svg", link: 'https://github.com/data-programmer'}
 
 google-id: ''
