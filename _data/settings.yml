@@ -14,10 +14,10 @@ css:
 
 nav:
   - {name: "Home", url: "/"}
-  - {name: "Skills", url: "/#skills" }
-  - {name: "Projects", url: "/#projects" }
-  - {name: "Work Experience", url: "./#work" }
-  - {name: "Education", url: "/#education"}
+  - {name: "Skills", url: "../#skills" }
+  - {name: "Projects", url: "../#projects" }
+  - {name: "Work Experience", url: "../#work" }
+  - {name: "Education", url: "../#education"}
   - {name: "News", url: "/news.html"}
   - {name: "Contact", url: "/contact.html" }
 
