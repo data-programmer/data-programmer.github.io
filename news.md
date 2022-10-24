@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to News!
+## News
 
-_yay_
+{% include news.html %}
 
-[back](./)
+[Return to home](./)

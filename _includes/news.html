@@ -1,0 +1,10 @@
+{% for item in site.data.news %}
+{% if news.show %}
+<div>
+  <img class="news-icon" src="/assets/icons/newspaper.svg" alt="News icon">
+  <strong>{{ item.date }}</strong>
+  <br>
+  {{ item.news }}
+</div>
+{% endif %}
+{% endfor %}
