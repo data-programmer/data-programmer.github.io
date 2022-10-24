@@ -17,9 +17,7 @@ nav:
   - {name: "Education", url: "../#education"}
   - {name: "News", url: "/news.html"}
   - {name: "Contact", url: "/contact.html" }
-
-docs:
-  - {name: "Resume", url: "/assets/resume/resume.pdf"}
+  - {name: "Résumé (pdf)", url: "/assets/resume/resume.pdf"}
 
 social:
   - {url: "/assets/icons/envelope.svg", link: 'mailto:williamikingsley@outlook.com'}
