@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## News
+# News
 
 {% include news.html %}
 
