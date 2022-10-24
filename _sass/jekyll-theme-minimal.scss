@@ -9,11 +9,11 @@
 
 .navbar li {
   display: block;
-  padding: 8px 16px;
+  padding: 4px 16px;
 }
 
 .navbar li:hover {
-  background-color: #6c6c6c;
+  background-color: #d9d9d9;
   color: #069;
 }
 
@@ -38,6 +38,10 @@
 
 .icon:hover {
   color: #069;
+}
+
+.page-top-spacing {
+  margin-top: 5px;
 }
 
 .page-title-spacing {

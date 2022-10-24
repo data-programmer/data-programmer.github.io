@@ -1,5 +1,7 @@
-{% for nav in site.data.settings.nav %}
-<ul class="navbar page-list-spacing">
-    <li><a href="{{ nav.url }}">{{ nav.name }}</a></li>
-</ul>
-{% endfor %}
+<div class="page-top-spacing">
+    {% for nav in site.data.settings.nav %}
+    <ul class="navbar page-list-spacing">
+        <li><a href="{{ nav.url }}">{{ nav.name }}</a></li>
+    </ul>
+    {% endfor %}
+</div>
