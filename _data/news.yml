@@ -2,7 +2,15 @@
   date: "October 23, 2022"
   show: true
 
+- news: "My website is nearing completion. This is a very exciting achievement that is very cool. This is a test of my news post paragraph lines. Oh, yeah! This is so cool! I am very excited."
+  date: "October 23, 2022"
+  show: true
+
 - news: "My website is nearing completion."
+  date: "October 23, 2022"
+  show: true
+
+- news: "We received a new NSF award to work with educators in Montana to design and integrate computer science curriculum with other school subjects, including Montana’s Indian Education For All curriculum (IEFA)."
   date: "October 23, 2022"
   show: true
 
@@ -14,15 +22,7 @@
   date: "October 23, 2022"
   show: true
 
-- news: "My website is nearing completion."
-  date: "October 23, 2022"
-  show: true
-
-- news: "My website is nearing completion."
-  date: "October 23, 2022"
-  show: true
-
-- news: "My website is nearing completion."
+- news: "We received a new NSF award to work with educators in Montana to design and integrate computer science curriculum with other school subjects, including Montana’s Indian Education For All curriculum (IEFA)."
   date: "October 23, 2022"
   show: true
 
