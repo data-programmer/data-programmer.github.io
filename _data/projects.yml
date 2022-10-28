@@ -176,17 +176,6 @@
     - point: "Tracked work tasks and progress using Jira"
     - point: "Updated numerous plugins and services"
 
-- title: "Personal Website (williamkingsley.com)"
-  employer: "Personal Project"
-  tech: "(Jekyll, Liquid, HTML, CSS, Github Pages, Minimal)"
-  desc: "williamkingsley.com is a professional website for showcasing my skills, experience, and education as a software engineer. In addition, my professional website includes my preferred contact information, résumé, and recent professional news."
-  showpoints: true
-  points:
-    - point: "Constructed using Jekyll, Liquid, HTML, and CSS for simplicity"
-    - point: "Hosted by GitHub Pages for quick and easy deployments"
-    - point: "Built using the Minimal theme for display compatability"
-    - point: "Applied Custom CSS to personalize Minimal theme"
-
 - title: "Research Buddy"
   employer: "Personal Project"
   tech: "(Android, Kotlin, Springer Nature API, CORE, Compose, Hilt, Room, Retrofit, OkHttp, Git)"
@@ -198,6 +187,17 @@
     - point: "Designed and created flexible Material UI for improving device compatibility"
     - point: "Leveraged modern Android architecture components and MVVM architecture"
     - point: "Built research article citation tool for creating MLA, APA, and Chicago citations"
+
+- title: "williamkingsley.com"
+  employer: "Personal Project"
+  tech: "(Jekyll, Liquid, HTML, CSS, Github Pages, Minimal)"
+  desc: "williamkingsley.com is a professional website for showcasing my skills, experience, and education as a software engineer. In addition, my professional website includes my preferred contact information, résumé, and recent professional news."
+  showpoints: true
+  points:
+    - point: "Constructed using Jekyll, Liquid, HTML, and CSS for simplicity"
+    - point: "Hosted by GitHub Pages for quick and easy deployments"
+    - point: "Built using the Minimal theme for display compatability"
+    - point: "Applied Custom CSS to personalize Minimal theme"
 
 - title: "MasterCalc"
   employer: "Personal Project"
