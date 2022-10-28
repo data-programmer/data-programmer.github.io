@@ -6,8 +6,8 @@
   points:
     - point: "Developed Home, Save, Spend, and QA Challenges features for investors"
     - point: "Implemented multi-module Clean architecture for creating reusable modules"
-    - point: ""
-    - point: ""
+    - point: "Created custom Jetpack Compose bar charts measuring investment performance"
+    - point: "Lead InRhythm development team and supported junior developers"
     - point: "Unit tests created by using Mockk and JUnit frameworks"
 
 - title: "Digital Badge"
