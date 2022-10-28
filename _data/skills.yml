@@ -1,12 +1,11 @@
 languages:
     - language: "Kotlin"
     - language: "Swift"
-    - language: "Java"
     - language: "SwiftUI"
+    - language: "Java"
     - language: "Python"
     - language: "C++"
     - language: "C#"
-    - language: "Python"
     - language: "JavaScript"
     - language: "React"
     - language: "Node.js"
