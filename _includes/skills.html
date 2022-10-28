@@ -2,15 +2,15 @@
 <h2 id="skills">Language Skills and Tools</h2>
 <div>
     <p>
-        <h4><strong>Languages: </strong></h4>
+        <strong>Languages: </strong>
         {% for item in site.data.skills.languages %}
-            {{ item.language }}
+            {{ item.language }}{% if forloop.last %}{% else %}, {% endif %}
         {% endfor %}
     </p>
     <p>
-        <h4><strong>Tools: </strong></h4>
+        <strong>Tools: </strong>
         {% for item in site.data.skills.tools %}
-            {{ item.tool }}
+            {{ item.tool }}{% if forloop.last %}{% else %}, {% endif %}
         {% endfor %}
     </p>
 </div>
