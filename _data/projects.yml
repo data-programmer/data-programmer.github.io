@@ -1,8 +1,8 @@
 - title: "Fidelity Bloom"
   employer: "Fidelity Investments"
-  tech: "(Kotlin, Android, Jetpack Compose, ...)"
-  desc: "..."
-  showpoints: true
+  tech: "(Android, Kotlin, Compose, Arch, Coil, Mockk, Retrofit, Accompanist, Clean, Artifactory)"
+  desc: "Fidelity Bloom is a youth investing app made to help improve the saving and spending habits of the next generation of investors. Fidelity Bloom teaches new investors through interactive challenges, in-app investment tips, and a variety of account benefits."
+  showpoints: false
   points:
     - point: ""
     - point: ""
