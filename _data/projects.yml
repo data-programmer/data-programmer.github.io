@@ -5,7 +5,7 @@
   showpoints: true
   points:
     - point: "Developed Home, Save, Spend, and QA Challenges features for investors"
-    - point: "Implemented multi-module Clean architecture for promoting reusable modules"
+    - point: "Implemented multi-module Clean architecture for creating reusable modules"
     - point: ""
     - point: ""
     - point: "Unit tests created by using Mockk and JUnit frameworks"
