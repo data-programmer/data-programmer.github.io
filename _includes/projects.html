@@ -2,7 +2,7 @@
 <h2 id="projects">Projects</h2>
 {% for project in site.data.projects %}
 <div>
-    <p><strong>{{ project.title }}</strong> {{ project.tech }}
+    <p class="project-section"><strong>{{ project.title }}</strong> {{ project.tech }}
         <ul>
             <li>{{ project.desc }}
                 {% if project.showpoints %}
