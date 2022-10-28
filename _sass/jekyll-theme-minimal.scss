@@ -1,6 +1,11 @@
 @import "fonts";
 @import "rouge-github";
 
+.nav-link {
+  display: block;
+  max-width: 100%;
+}
+
 .nav-item {
   padding: 0 16px;
 }
