@@ -2,13 +2,13 @@
   employer: "Fidelity Investments"
   tech: "(Android, Kotlin, Compose, Arch, Coil, Mockk, Retrofit, Accompanist, Clean, Artifactory)"
   desc: "Fidelity Bloom is a youth investing app made to help improve the saving and spending habits of the next generation of investors. Fidelity Bloom teaches new investors through interactive challenges, in-app investment tips, and a variety of account benefits."
-  showpoints: false
+  showpoints: true
   points:
+    - point: "Developed Home, Save, Spend, and QA Challenges features for investors"
+    - point: "Implemented multi-module Clean architecture for promoting reusable modules"
     - point: ""
     - point: ""
-    - point: ""
-    - point: ""
-    - point: ""
+    - point: "Unit tests created by using Mockk and JUnit frameworks"
 
 - title: "Digital Badge"
   employer: "Northrop Grumman Corporation"
