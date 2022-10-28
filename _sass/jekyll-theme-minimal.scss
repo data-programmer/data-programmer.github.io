@@ -1,6 +1,10 @@
 @import "fonts";
 @import "rouge-github";
 
+.nav-item {
+  padding: 0 16px;
+}
+
 .project-section {
   margin: 20px 0 0;
 }
@@ -17,7 +21,7 @@
 
 .navbar li {
   display: block;
-  padding: 2px 16px;
+  padding: 2px 0;
 }
 
 .navbar li:hover {
