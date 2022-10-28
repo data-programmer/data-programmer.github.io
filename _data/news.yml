@@ -1,19 +1,11 @@
-- news: "The first iteration of my website is now complete."
+- news: "The first iteration of my professional website is now complete."
   date: "October 28, 2022"
   show: true
 
-- news: "The first iteration of my website is now complete."
-  date: "October 28, 2022"
+- news: "I'm happy to share that I'm starting a new position as Senior Android Engineer at [InRhythm](https://www.inrhythm.com/)!"
+  date: "March 14, 2022"
   show: true
 
-- news: "The first iteration of my website is now complete."
-  date: "October 28, 2022"
-  show: true
-
-- news: "The first iteration of my website is now complete."
-  date: "October 28, 2022"
-  show: true
-
-- news: "The first iteration of my website is now complete."
-  date: "October 28, 2022"
+- news: "I'm happy to share that I'm starting a new position as Senior Android Engineer at the [Northrop Grumman Corporation](https://www.northropgrumman.com/)!"
+  date: "June 12, 2020"
   show: true
