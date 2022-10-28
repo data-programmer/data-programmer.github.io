@@ -10,18 +10,6 @@
     - point: ""
     - point: ""
 
-- title: "Personal Website (williamkingsley.com)"
-  employer: "Personal Project"
-  tech: "(Jekyll, Liquid, Github Pages, Minimal)"
-  desc: "..."
-  showpoints: false
-  points:
-    - point: ""
-    - point: ""
-    - point: ""
-    - point: ""
-    - point: ""
-
 - title: "Digital Badge"
   employer: "Northrop Grumman Corporation"
   tech: "(Android, Kotlin, Google Maps API, Compose, Retrofit, OkHttp, Hilt, Location Services, Hypergate)"
@@ -187,6 +175,17 @@
     - point: "Maintained website using WordPress"
     - point: "Tracked work tasks and progress using Jira"
     - point: "Updated numerous plugins and services"
+
+- title: "Personal Website (williamkingsley.com)"
+  employer: "Personal Project"
+  tech: "(Jekyll, Liquid, HTML, CSS, Github Pages, Minimal)"
+  desc: "williamkingsley.com is a professional website for showcasing my skills, experience, and education as a software engineer. In addition, my professional website includes my preferred contact information, résumé, and recent professional news."
+  showpoints: true
+  points:
+    - point: "Constructed using Jekyll, Liquid, HTML, and CSS for simplicity"
+    - point: "Hosted by GitHub Pages for quick and easy deployments"
+    - point: "Built using the Minimal theme for display compatability"
+    - point: "Applied Custom CSS to personalize Minimal theme"
 
 - title: "Research Buddy"
   employer: "Personal Project"
