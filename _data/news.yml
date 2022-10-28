@@ -1,3 +1,19 @@
-- news: "My website is nearing completion."
-  date: "October 23, 2022"
+- news: "The first iteration of my website is now complete."
+  date: "October 28, 2022"
+  show: true
+
+- news: "The first iteration of my website is now complete."
+  date: "October 28, 2022"
+  show: true
+
+- news: "The first iteration of my website is now complete."
+  date: "October 28, 2022"
+  show: true
+
+- news: "The first iteration of my website is now complete."
+  date: "October 28, 2022"
+  show: true
+
+- news: "The first iteration of my website is now complete."
+  date: "October 28, 2022"
   show: true
