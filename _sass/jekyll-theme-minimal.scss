@@ -57,8 +57,9 @@
   color: #069;
 }
 
-.page-top-spacing {
+.nav-spacing {
   margin-top: 5px;
+  margin-bottom: 20px;
 }
 
 .page-title-spacing {
@@ -193,7 +194,9 @@ kbd {
 header {
   width:270px;
   float:left;
-  position:fixed;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -277,8 +280,9 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:fixed;
-  bottom:50px;
+  position:relative;
+  margin-top:auto;
+  margin-bottom:100px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
