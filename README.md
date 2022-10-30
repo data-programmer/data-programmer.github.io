@@ -3,7 +3,9 @@ Professional website built using [Jekyll](http://jekyllrb.com/), constructed fro
 ## Jekyll Resources
 
 [Jekyll](https://jekyllrb.com/)
+
 [Jekyll-Docs](http://jekyllrb.com/docs/home/)
+
 [Jekyll-Themes](http://jekyllthemes.org/)
 
 ## Copyright & License
