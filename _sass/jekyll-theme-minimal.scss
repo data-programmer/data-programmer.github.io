@@ -193,7 +193,7 @@ kbd {
 header {
   width:270px;
   float:left;
-  position:fixed;
+  position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -278,6 +278,7 @@ footer {
   width:100%;
   clear:both;
   text-align:center;
+  padding-top:25px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
