@@ -1,6 +1,6 @@
 <div class="page-top-spacing">
-    {% for nav in site.data.settings.nav %}
     <ul class="navbar page-list-spacing">
+        {% for nav in site.data.settings.nav %}
         <li>
             <a href="{{ nav.url }}">
                 <div class="nav-item">
@@ -8,6 +8,6 @@
                 </div>
             </a>
         </li>
+        {% endfor %}
     </ul>
-    {% endfor %}
 </div>
