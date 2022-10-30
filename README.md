@@ -1,4 +1,4 @@
-Professional website built using [Jekyll](http://jekyllrb.com/), constructed from the [Minimal](https://github.com/pages-themes/minimal/) theme, and freely hosted on [Github pages](https://pages.github.com/).
+Professional website built using [Jekyll](http://jekyllrb.com/), constructed from the [Minimal](https://github.com/pages-themes/minimal/) theme, and freely hosted on [Github Pages](https://pages.github.com/).
 
 ## Jekyll Resources
 
