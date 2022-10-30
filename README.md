@@ -2,9 +2,9 @@ Professional website built using [Jekyll](http://jekyllrb.com/), constructed fro
 
 ## Jekyll Resources
 
-[jekyll][https://jekyllrb.com/]
-[jekyll-docs][http://jekyllrb.com/docs/home]
-[jekyll-themes][http://jekyllthemes.org]
+[Jekyll](https://jekyllrb.com/)
+[Jekyll-Docs](http://jekyllrb.com/docs/home/)
+[Jekyll-Themes](http://jekyllthemes.org/)
 
 ## Copyright & License
 
