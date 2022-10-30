@@ -1,5 +1,11 @@
 Professional website built using [Jekyll](http://jekyllrb.com/), constructed from the [Minimal](https://github.com/pages-themes/minimal/) theme, and freely hosted on [Github pages](https://pages.github.com/).
 
+## Jekyll Resources
+
+[jekyll][https://jekyllrb.com/]
+[jekyll-docs][http://jekyllrb.com/docs/home]
+[jekyll-themes][http://jekyllthemes.org]
+
 ## Copyright & License
 
 MIT License
