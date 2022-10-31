@@ -2,6 +2,7 @@ title: William Kingsley
 author: William Kingsley
 avatar: profile.jpg
 description: "A professional website for showcasing my projects and work experience."
+meta-description: "William Kingsley, software engineer, mobile developer, professional website for showcasing my skills and experience"
 email: "[williamikingsley [at] outlook [dot] com](mailto:williamikingsley@outlook.com)"
 url: https://williamkingsley.com
 githuburl: https://github.com/data-programmer/data-programmer.github.io
@@ -23,5 +24,3 @@ social:
   - {url: "/assets/icons/envelope.svg", link: 'mailto:williamikingsley@outlook.com'}
   - {url: "/assets/icons/linkedin.svg", link: 'https://www.linkedin.com/in/williamkingsley'}
   - {url: "/assets/icons/github.svg", link: 'https://github.com/data-programmer'}
-
-google-id: ''
