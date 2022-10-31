@@ -7,9 +7,6 @@ email: "[williamikingsley [at] outlook [dot] com](mailto:williamikingsley@outloo
 url: https://williamkingsley.com
 githuburl: https://github.com/data-programmer/data-programmer.github.io
 
-meta:
-  lang: "en-US"
-
 nav:
   - {name: "Home", url: "/"}
   - {name: "Skills", url: "../#skills" }
