@@ -1,15 +1,15 @@
 - title: "Fidelity Bloom"
   employer: "Fidelity Investments"
   tech: "(Android, Kotlin, Compose, Arch, Coil, Mockk, Retrofit, Accompanist, Clean, Artifactory)"
-  desc: "Fidelity Bloom is a youth investing app made to help improve the saving and spending habits of the next generation of investors. Fidelity Bloom teaches new investors through interactive challenges, in-app investment tips, and a variety of account benefits."
+  desc: "Fidelity Bloom is a youth investing app made to help improve the saving and spending habits of the next generation of investors. Fidelity Bloom teaches new investors through interactive challenges, in-app investment tips, and a variety of account benefits to demonstrate the importance of healthy financial habits."
   showpoints: true
   points:
-    - point: "Developed Home, Save, Spend, and QA Challenges features for investors"
-    - point: "Implemented multi-module Clean architecture for creating reusable modules"
-    - point: "Created custom Jetpack Compose bar charts measuring investment performance"
-    - point: "Lead InRhythm development team and supported junior developers"
-    - point: "Unit tests created using Mockk and JUnit frameworks"
-    - point: "Coordinated development timeline with management for releases"
+    - point: "Developed Home, Save, Spend, and QA Challenges features to provide user financial support"
+    - point: "Implemented multi-module Clean architecture for creating reusable and maintainable modules"
+    - point: "Created custom Jetpack Compose bar charts measuring and reporting user investment performance"
+    - point: "Lead InRhythm development team and supported junior developer growth and learning"
+    - point: "Unit tests created using Mockk and JUnit frameworks for ensuring code correctness"
+    - point: "Coordinated development timeline with management to maintain deadlines and release dates"
 
 - title: "Digital Badge"
   employer: "Northrop Grumman Corporation"
@@ -17,11 +17,11 @@
   desc: "Digital Badge is a lone-worker mobile safety app built to help protect and monitor lone-workers in dangerous working environments. Digital Badge leverages the Google Maps API for location access management and features a check-in/check-out status monitoring system to ensure workers adhere to building safety guidelines."
   showpoints: true
   points:
-     - point: "Created status monitoring state-machine system for ensuring proper status of workers"
-     - point: "Implemented Google Maps API for location and geo-fence management"
+     - point: "Created status monitoring state-machine system for ensuring proper status and safety of workers"
+     - point: "Implemented Google Maps API for location and building geo-fence management"
      - point: "Applied MVVM architecture and components for promoting app maintainability"
-     - point: "Integrated OneSignal SDK for push notification status alerts"
-     - point: "Digitized employee credentials for easy-of-access of buildings"
+     - point: "Integrated OneSignal SDK for push notification status alerts of workers in dangerous environments"
+     - point: "Digitized employee credentials for easy-of-access of buildings and structures"
 
 - title: "Pilot System"
   employer: "Northrop Grumman Corporation"
@@ -29,11 +29,11 @@
   desc: "Pilot System removes the complications of maintaining pen-and-paper flight manifests and accelerates passenger onboarding processes for NG aircraft. Pilot System tracks passenger status, provides digital flight manifest management features, and greatly reduces the likelihood of reporting errors on flight manifests for aircraft."
   showpoints: true
   points:
-      - point: "Implemented OkHttp HTTP clients for consumption of .NET Core REST API"
-      - point: "Designed and implemented application UI and passenger onboarding rule sets"
+      - point: "Implemented OkHttp HTTP clients for easy consumption of .NET Core REST API"
+      - point: "Designed and implemented application UI and passenger rule sets for efficient onboarding"
       - point: "Created a QR code analyzer using Jetpack CameraX library for passenger ticket scanning"
-      - point: "Developed real-time passenger onboarding and new-arrival management system"
-      - point: "UI implemented in Jetpack Compose to improve state management"
+      - point: "Developed real-time passenger onboarding and new-arrival in-app management system"
+      - point: "UI implemented in Jetpack Compose to improve state management and development time"
 
 - title: "Flight Reservation Request System"
   employer: "Northrop Grumman Corporation"
@@ -41,11 +41,11 @@
   desc: "Flight Reservation Request System (FRRS) expedites passenger aircraft reservation requests for NG employees. FRRS provides employees the capability to quickly reserve seats on passenger aircraft and allows for updating of flight reservation info in a single friendly mobile interface."
   showpoints: true
   points:
-      - point: "Lead and coordinated team development efforts"
-      - point: "Used View and Jetpack Compose UI toolkit compatibility to better separate logic"
-      - point: "Integrated the ZXing library for generating ticket QR codes"
-      - point: "Implemented Hypergate access control to enable single sign-on"
-      - point: "Communicated with multiple teams to align and satisfy app requirements"
+      - point: "Lead team development efforts and release timelines for deployment with management"
+      - point: "Used View and Jetpack Compose UI compatibility to better separate logic and improve maintainability"
+      - point: "Integrated the ZXing library for generating ticket QR codes to improve passenger flight onboarding"
+      - point: "Implemented Hypergate access control to enable single sign-on to improve user experience"
+      - point: "Communicated with multiple teams to align and satisfy app requirements and user expectations"
 
 - title: "PeopleFinder"
   employer: "Northrop Grumman Corporation"
@@ -54,10 +54,10 @@
   showpoints: true
   points:
       - point: "Interfaced with Active Directory API using Retrofit and Hypergate to retrieve employee info"
-      - point: "Designed and implemented app UI using View toolkit"
+      - point: "Designed and implemented app UI using View toolkit best practices"
       - point: "Room persistence library integrated for preserving user favorites and recent searches"
-      - point: "Created LRU image cache for search results"
-      - point: "BugSnag used for error reporting and app health monitoring"
+      - point: "Created LRU image cache for search results allowing for lazy loading of profile images"
+      - point: "BugSnag used for error reporting and app health monitoring in production"
 
 - title: "Possible@Work"
   employer: "Northrop Grumman Corporation"
@@ -66,10 +66,10 @@
   showpoints: true
   points:
       - point: "Implemented OAuth2 access control using EncryptedSharedPreferences for token storage"
-      - point: "Designed and implemented app UI and collapsing toolbar"
-      - point: "Used the Caffeine library for news content caching"
-      - point: "Hilt library implemented for dependency injection management"
-      - point: "HTML parser used to render news content for Android views"
+      - point: "Designed and implemented app UI and collapsing toolbar for convenient user navigation"
+      - point: "Used the Caffeine library for news content caching reducing network loads"
+      - point: "Hilt library implemented for dependency injection management to improve testability"
+      - point: "HTML parser used to render news content for Android views allowing for markdown rendering"
 
 - title: "Timesheet"
   employer: "Northrop Grumman Corporation"
@@ -77,11 +77,11 @@
   desc: "Associate developer of the Timesheet mobile app for Northrop Grumman. Timesheet is one of Northrop Grumman’s first downloadable mobile apps to be used on employee personal devices. Timesheet streamlines the process of timekeeping and time management while also providing users with critical company alerts and info."
   showpoints: true
   points:
-    - point: "Assisted with integrating generated API client code"
+    - point: "Assisted with integrating generated API client code using Swagger Editor"
     - point: "Implemented MVVM ViewModel, Repository, and Data Source components"
     - point: "Supported development of .NET Core REST APIs for data transfer and use by Timesheet"
-    - point: "Provided support for junior developers and helped  organize development"
-    - point: "Built algorithms for content sorting  and list view displays"
+    - point: "Provided support for junior developers and helped organize development efforts"
+    - point: "Built algorithms for content sorting and list view displays for convenient user time entry"
 
 - title: "SiteMinder Login"
   employer: "Northrop Grumman Corporation"
@@ -90,10 +90,10 @@
   showpoints: true
   points:
     - point: "Used jQuery and JavaScript to improve existing web page functionality"
-    - point: "Assisting in design of modern mobile-first website UI"
+    - point: "Assisting in design of modern mobile-first website UI and implementation"
     - point: "Used a combination of HTML, CSS, and Bootstrap for implementing mobile-first UI"
-    - point: "Leveraged existing SiteMinder artifacts for managing authentication type and state"
-    - point: "Worked with service managers to coordinate enterprise deployment"
+    - point: "Leveraged existing SiteMinder artifacts for managing authentication type and session state"
+    - point: "Worked with service managers to coordinate enterprise production deployment"
 
 - title: "STRIKE Web Admin"
   employer: "Northrop Grumman Corporation"
@@ -101,9 +101,9 @@
   desc: "Assistant developer for Northrop Grumman B-21 Raider STRIKE project web admin tool. The web administration tool is used for audit and document tracking in support of the B-21 Raider project for the United States Airforce. The tool features asynchronous HTTP requests for real-time updates throughout the tool."
   showpoints: true
   points:
-    - point: "Engineering asynchronous HTTP requests using jQuery AJAX"
-    - point: "Improved overall tool performance and web page responsiveness"
-    - point: "Created jQuery table state management and dynamic controls"
+    - point: "Engineered asynchronous HTTP requests using jQuery AJAX for real-time updates"
+    - point: "Improved overall tool performance and web page responsiveness leveraging asynchronous code"
+    - point: "Created jQuery table state management and dynamic user document controls"
     - point: "Leveraged existing controller .NET infrastructure for HTTP requests"
 
 - title: "Possible@Work Content Admin"
@@ -112,10 +112,10 @@
   desc: "Lead developer of the Possible@Work content administration tool. The administration tool provides a simple web UI for media communication managers to input, format, authorize, and distribute news content for the Possible@Work mobile app for Android and iOS."
   showpoints: true
   points:
-    - point: "Constructed editing tool and side-panel preview of content"
+    - point: "Constructed editing tool and side-panel preview for in-app news content viewing before publication"
     - point: "Razor used for content rendering and jQuery AJAX requests used for asynchronous requests"
-    - point: "Coordinated team development efforts and assisted junior developers on tasks"
-    - point: "Managed version control incidents and implemented Gitflow workflow"
+    - point: "Coordinated team development efforts and assisted junior developers on development tasks"
+    - point: "Managed version control incidents and implemented Gitflow workflow to reduce versioning issues"
 
 - title: "NG Notes"
   employer: "Northrop Grumman Enterprise Services –Mobile Hackathon Winner"
@@ -123,11 +123,11 @@
   desc: "Developer of the NG Notes iOS mobile app for Enterprise Service’s first internal hackathon. NG Notes is a note taking application developed to be used by Northrop Grumman employees as a task management aid. The application features a basic authentication process and allows for employees to categorize notes by project for better management of material."
   showpoints: true
   points:
-    - point: "Used Figma to design app UI components and architected user flow"
-    - point: "Developed .NET Core API for management of user projects, notes, and authentication"
+    - point: "Used Figma to design app UI components and architected basic user flow experience"
+    - point: "Developed .NET Core API for management of user projects, notes, and in-app authentication"
     - point: "Created Azure API app services and Azure SQL DB for hosting .NET Core API and data store"
     - point: "Constructed asynchronous and synchronous HTTP clients for interfacing with .NET Core API"
-    - point: "SwiftUI, MVVM, and URLSession used for networking and view development"
+    - point: "SwiftUI, MVVM, and URLSession best-practices used for networking and view development"
 
 - title: "Aktiv Mobile App"
   employer: "Aktiv Connection"
@@ -135,11 +135,11 @@
   desc: "Founder and developer of the Aktiv Connection social exercise mobile app. Aktiv offers a revolutionary new way of connecting like-minded people dedicated to exercise and fitness in a social and fun way. The Aktiv mobile app makes it easy to make new acquaintances while also engaging with others to help you reach your fitness goals."
   showpoints: true
   points:
-    - point: "Integrated Room for storing user preferences and calendar events"
-    - point: "Caffeine used to cache media content and Moshi for JSON decoding"
+    - point: "Integrated Room for storing user preferences and calendar events to support offline-first interaction"
+    - point: "Caffeine used to cache media content and Moshi for JSON decoding of API responses"
     - point: "Developed messaging, calendar, search, and media content management features"
-    - point: "Paging3 library used for pagination for video content"
-    - point: "Developed business plans and app development timeline"
+    - point: "Paging3 library used for pagination for video content for continuous user engagement"
+    - point: "Developed business plans and app development timeline for release"
 
 - title: "Aktiv API"
   employer: "Aktiv Connection"
@@ -147,11 +147,11 @@
   desc: "Creator of the Aktiv Connection API. The Aktiv API hosted on Microsoft Azure is used to service the Aktiv Connection mobile app. The API features a robust set of routes and leverages the .NET Core MVC architecture. Information is encoded in JSON and Swagger documentation is used for route mocking and development."
   showpoints: true
   points:
-    - point: "Used Swagger/OpenAPI for documentation of .NET Core API routes"
-    - point: "Constructed .NET Core REST APIs for delivering Aktiv mobile app content"
-    - point: "Encoded data in JSON and hosted Aktiv API on Azure"
-    - point: "Connected API service with Azure SQL DB for data storage"
-    - point: "Administered Azure SQL DB and API service"
+    - point: "Used Swagger/OpenAPI for painless documentation of .NET Core API routes"
+    - point: "Constructed .NET Core REST APIs for delivering Aktiv mobile app content in JSON format"
+    - point: "Encoded data in JSON and hosted Aktiv API on Azure for prototyping and testing efforts"
+    - point: "Connected API service with Azure SQL DB for persistent user data storage"
+    - point: "Administered Azure SQL DB and API service for longevity and uptime"
 
 - title: "Virtual Industry Day"
   employer: "MilTech"
@@ -161,21 +161,9 @@
   points:
     - point: "Formulated the desired functionality and vision of the platform from project inception"
     - point: "Lead in relational database design, implementation, and continued management"
-    - point: "Developed and maintained Node.js microservices and CI pipelines"
+    - point: "Developed and maintained Node.js microservices and CI pipelines improving developing times"
     - point: "Built JavaScript applications for responsive and friendly web pages"
-    - point: "Lead testing of website using the Cypress framework"
-
-- title: "GVF2S Website"
-  employer: "Gallatin Valley Farm to School"
-  tech: "(JavaScript, WordPress, HTML, CSS, Jira)"
-  desc: "Web developer for Gallatin Valley Farm to School (GVF2S). GVF2S is a non-profit Bozeman-based organization whose mission is improving student nutrition, local economies, and community relations by connecting schools and local producers in Gallatin Valley, Montana."
-  showpoints: true
-  points:
-    - point: "Helped modernize GVF2S website and updated essential service software"
-    - point: "Edited web components and aided administration of web content"
-    - point: "Maintained website using WordPress"
-    - point: "Tracked work tasks and progress using Jira"
-    - point: "Updated numerous plugins and services"
+    - point: "Lead testing of project using the Cypress framework to improve UI quality control"
 
 - title: "Research Buddy"
   employer: "Personal Project"
@@ -184,9 +172,9 @@
   showpoints: true
   points:
     - point: "Implemented Retrofit, Hilt, and Room for HTTP client, dependency injection, and data storage"
-    - point: "Created research article search and bookmarking features"
+    - point: "Created research article search and bookmarking features improving user research access"
     - point: "Designed and created flexible Material UI for improving device compatibility"
-    - point: "Leveraged modern Android architecture components and MVVM architecture"
+    - point: "Leveraged modern Android architecture components and MVVM architecture best practices"
     - point: "Built research article citation tool for creating MLA, APA, and Chicago citations"
 
 - title: "williamkingsley.com"
@@ -208,6 +196,6 @@
   points:
     - point: "Developing visually appealing web pages and front-end web services using HTML"
     - point: "Created server-side application layer for support of front-end and database services"
-    - point: "Implemented and configuring MySQL DBMS software"
+    - point: "Implemented and configured MySQL DBMS software for user data management"
     - point: "Analyzed and observed correctness of function and equation outputs"
-    - point: "Asynchronous HTTP requests implemented using jQuery AJAX"
+    - point: "Asynchronous HTTP requests implemented to improve page responsiveness using jQuery AJAX"
