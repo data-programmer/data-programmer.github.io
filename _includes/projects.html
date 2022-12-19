@@ -2,18 +2,15 @@
 <h2 id="projects">Projects</h2>
 {% for project in site.data.projects %}
 <div>
-    <p class="project-section"><strong>{{ project.title }}</strong> {{ project.tech }}
+    <p class="project-section"><strong>{{ project.title }}</strong> {{ project.tech }}<br>
+        {{ project.desc }}
+        {% if project.showpoints %}
         <ul>
-            <li>{{ project.desc }}
-                {% if project.showpoints %}
-                <ul>
-                    {% for item in project.points %}
-                    <li>{{ item.point }}</li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
-            </li>
+            {% for item in project.points %}
+            <li>{{ item.point }}</li>
+            {% endfor %}
         </ul>
+        {% endif %}
     </p>
 </div>
 {% endfor %}
