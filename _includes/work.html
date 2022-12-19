@@ -1,10 +1,8 @@
 <hr>
-<h2 id="work">Work Experience</h2>
+<h2 id="work">Experience</h2>
 {% for work in site.data.work %}
 <p>
-    <strong>{{ work.company }}</strong><br>
-    {{ work.title }}<br>
-    {{ work.date }}<br>
-    {{ work.location }}
+    <strong>{{ work.company }}</strong> | {{ work.title }}<br>
+    {{ work.date }} | {{ work.location }}
 </p>
 {% endfor %}

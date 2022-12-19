@@ -11,11 +11,12 @@ nav:
   - {name: "Home", url: "/"}
   - {name: "Skills", url: "../#skills" }
   - {name: "Projects", url: "../#projects" }
-  - {name: "Work Experience", url: "../#work" }
+  - {name: "Experience", url: "../#work" }
   - {name: "Education", url: "../#education"}
   - {name: "News", url: "/news.html"}
   - {name: "Contact", url: "/contact.html" }
-  - {name: "Résumé (pdf)", url: "/resume.pdf"}
+  - {name: "Résumé (pdf, short)", url: "/resume_short.pdf"}
+  - {name: "Résumé (pdf, long)", url: "/resume_long.pdf"}
 
 social:
   - {url: "/assets/icons/envelope.svg", link: 'mailto:williamikingsley@outlook.com'}

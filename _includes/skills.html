@@ -1,10 +1,16 @@
 <hr>
-<h2 id="skills">Language Skills and Tools</h2>
+<h2 id="skills">Technical Skills</h2>
 <div>
     <p>
         <strong>Languages: </strong>
         {% for item in site.data.skills.languages %}
             {{ item.language }}{% if forloop.last %}{% else %}, {% endif %}
+        {% endfor %}
+    </p>
+    <p>
+        <strong>Technologies/Jetpack: </strong>
+        {% for item in site.data.skills.technologies %}
+            {{ item.tech }}{% if forloop.last %}{% else %}, {% endif %}
         {% endfor %}
     </p>
     <p>
