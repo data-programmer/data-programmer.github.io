@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! I am **William Kingsley**, a Senior Android Engineer at [InRhythm](https://www.inrhythm.com/).
+Hello! I am **William Kingsley**, a Senior Mobile Developer at [care.ai](https://www.care.ai/).
 
 Thank you for visiting my professional website. I post my latest job developments, news, and preferred contact information here.
 
