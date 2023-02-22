@@ -185,5 +185,5 @@
   points:
     - point: "Constructed using Jekyll, Liquid, HTML, and CSS for simplicity"
     - point: "Hosted by GitHub Pages for quick and easy deployments"
-    - point: "Built using the Minimal theme for display compatability"
+    - point: "Built using the Minimal theme for display compatibility"
     - point: "Applied Custom CSS to personalize Minimal theme"
