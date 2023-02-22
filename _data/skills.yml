@@ -5,8 +5,8 @@ languages:
     - language: "C#"
     - language: "Java"
     - language: "SQL"
-    - language: "C++"
     - language: "JavaScript"
+    - language: "C++"
 
 technologies:
     - tech: "Compose"
