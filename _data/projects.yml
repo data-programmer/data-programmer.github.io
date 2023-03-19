@@ -20,7 +20,7 @@
      - point: "Created status monitoring state-machine system for ensuring proper status and safety of workers"
      - point: "Implemented Google Maps API for location and building geo-fence management"
      - point: "Applied MVVM architecture and components for promoting app maintainability"
-     - point: "Integrated OneSignal SDK for push notification status alerts of workers in dangerous environments"
+     - point: "Integrated OneSignal SDK for push notification status alerts for workers in dangerous environments"
      - point: "Digitized employee credentials for easy-of-access of buildings and structures"
 
 - title: "Pilot System"
@@ -138,7 +138,7 @@
     - point: "Integrated Room for storing user preferences and calendar events to support offline-first interaction"
     - point: "Caffeine used to cache media content and Moshi for JSON decoding of API responses"
     - point: "Developed messaging, calendar, search, and media content management features"
-    - point: "Paging3 library used for pagination for video content for continuous user engagement"
+    - point: "Paging3 library used for pagination of video content for continuous user engagement"
     - point: "Developed business plans and app development timeline for release"
 
 - title: "Aktiv API"
