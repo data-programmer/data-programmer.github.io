@@ -180,7 +180,7 @@
 - title: "williamkingsley.com"
   employer: "Personal Project"
   tech: "(Jekyll, Liquid, HTML, CSS, Github Pages, Minimal)"
-  desc: "williamkingsley.com is a professional website for showcasing my skills, experience, and education as a software engineer. In addition, my professional website includes my preferred contact information, résumé, and recent professional news."
+  desc: "williamkingsley.com is a professional website for showcasing my skills, experience, and education as a software engineer. In addition, my professional website includes my preferred contact information, resume, and recent professional news."
   showpoints: true
   points:
     - point: "Constructed using Jekyll, Liquid, HTML, and CSS for simplicity"
