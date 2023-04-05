@@ -6,7 +6,6 @@ languages:
     - language: "Java"
     - language: "SQL"
     - language: "JavaScript"
-    - language: "C++"
 
 technologies:
     - tech: "Compose"
