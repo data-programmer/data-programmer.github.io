@@ -1,4 +1,4 @@
-- title: "Senior Software Engineer"
+- title: "Land id™ Android"
   employer: "Land id™"
   tech: "(Android, Kotlin, Mockk, Retrofit, Clean, View, Mapbox)"
   desc: "Developed Land id™ Android app that has over 50,000+ downloads on Google Play Store. My role involved using Android Studio, Dagger 2, Kotlin, XML, Coroutines, and the Jetpack library. I worked closely with a team of contract engineers to design and implement functional software solutions and fix bugs in alignment with business goals."
@@ -10,7 +10,7 @@
     - point: "Lead QA process and technical improvement efforts to streamline deployment efficiency"
     - point: "Assisted junior engineer setup, onboarding, and problem solving"
 
-- title: "Senior Mobile Developer"
+- title: "care.ai (R2 and T2 devices)"
   employer: "care.ai"
   tech: "(Android, Kotlin, View, XML, Retrofit, Volley, Java, MQTT)"
   desc: "Develop features for R2 and T2 smart devices deployed at over 1,500 client healthcare provider locations. Build MQTT IoT device commands and services to manage IoT network communications, ensuring seamless integration with the existing infrastructure."
