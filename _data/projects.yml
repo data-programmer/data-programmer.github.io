@@ -1,3 +1,27 @@
+- title: "Senior Software Engineer"
+  employer: "Land id™"
+  tech: "(Android, Kotlin, Mockk, Retrofit, Clean, View, Mapbox)"
+  desc: "Developed Land id™ Android app that has over 50,000+ downloads on Google Play Store. My role involved using Android Studio, Dagger 2, Kotlin, XML, Coroutines, and the Jetpack library. I worked closely with a team of contract engineers to design and implement functional software solutions and fix bugs in alignment with business goals."
+  showpoints: true
+  points:
+    - point: "Developed mapping solutions using Mapbox SDK for Discover and My Maps features"
+    - point: "Coordinated with the contracting team to schedule tasks and deployments"
+    - point: "Fixed user-critical UI bugs and advised architectural improvements to stakeholders"
+    - point: "Lead QA process and technical improvement efforts to streamline deployment efficiency"
+    - point: "Assisted junior engineer setup, onboarding, and problem solving"
+
+- title: "Senior Mobile Developer"
+  employer: "care.ai"
+  tech: "(Android, Kotlin, View, XML, Retrofit, Volley, Java, MQTT)"
+  desc: "Develop features for R2 and T2 smart devices deployed at over 1,500 client healthcare provider locations. Build MQTT IoT device commands and services to manage IoT network communications, ensuring seamless integration with the existing infrastructure."
+  showpoints: true
+  points:
+    - point: "Supported modernization efforts of Android repos and pipelines"
+    - point: "Created onboarding, process, and repo documentation for the Android team"
+    - point: "Deployed features and fixes for 1,500 client healthcare providers using R2 devices"
+    - point: "Implemented static code analysis and linting toolsets for quality improvements"
+    - point: "Provided guidance on modern development practices to improve operational efficiency"
+
 - title: "Fidelity Bloom"
   employer: "Fidelity Investments"
   tech: "(Android, Kotlin, Compose, Arch, Coil, Mockk, Retrofit, Accompanist, Clean, Artifactory)"
@@ -164,6 +188,18 @@
     - point: "Developed and maintained Node.js microservices and CI pipelines improving developing times"
     - point: "Built JavaScript applications for responsive and friendly web pages"
     - point: "Lead testing of project using the Cypress framework to improve UI quality control"
+
+- title: "AppTana, LLC"
+  employer: "Personal Project"
+  tech: "(Android, Kotlin, Compose, Hilt, Room, Retrofit, OkHttp, Git, Swift, SwiftUI, iOS, React Native)"
+  desc: "AppTana, LLC is a mobile app development company that specializes in building mobile apps for businesses in Montana. Our team of experienced developers is dedicated to providing personalized service to our clients, ensuring that we understand their unique needs and deliver quality results that exceed their expectations. We offer competitive pricing and work closely with our clients to ensure that their projects are completed on time and within budget. Whether you’re looking to build a new app from scratch or need help updating an existing one, we’re here to help."
+  showpoints: true
+  points:
+    - point: "Filed all necessary documents to incorporate the LLC and crafted business plans"
+    - point: "Created client templates and GitHub organization for client project hosting"
+    - point: "Learned React Native to provide additional options to clients"
+    - point: "Used ChatGPT and other AI models to assist with upkeep and improve productivity"
+    - point: "Provided services to local Montana business and business within the surrounding region"
 
 - title: "Research Buddy"
   employer: "Personal Project"

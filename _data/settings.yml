@@ -15,12 +15,12 @@ nav:
   - {name: "Education", url: "../#education"}
   - {name: "News", url: "/news.html"}
   - {name: "Contact", url: "/contact.html" }
-  - {name: "Resume (pdf)", url: "/resume.pdf"}
+  - {name: "Résumé (pdf)", url: "/resume.pdf"}
 
 social:
   - {url: "/assets/icons/envelope.svg", link: 'mailto:williamikingsley@outlook.com'}
   - {url: "/assets/icons/github.svg", link: 'https://github.com/data-programmer'}
   - {url: "/assets/icons/linkedin.svg", link: 'https://www.linkedin.com/in/williamkingsley'}
-  - {url: "/assets/icons/upwork.svg", link: 'https://www.upwork.com/freelancers/~0159acf9894d5af75e'}
+# - {url: "/assets/icons/upwork.svg", link: 'https://www.upwork.com/freelancers/~0159acf9894d5af75e'}
   - {url: "/assets/icons/medium.svg", link: 'https://medium.com/@williamkingsley'}
 
