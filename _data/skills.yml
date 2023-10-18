@@ -2,6 +2,7 @@ languages:
     - language: "Kotlin"
     - language: "Swift"
     - language: "Python"
+    - language: "React"
     - language: "C#"
     - language: "Java"
     - language: "SQL"
@@ -45,6 +46,10 @@ technologies:
     - tech: "Ktor"
     - tech: "Wear OS"
     - tech: "SwiftUI"
+    - tech: "React Native"
+    - tech: ".NET Core"
+    - tech: "Razor"
+    - tech: "ASP.NET"
 
 tools:
     - tool: "Android Studio"
