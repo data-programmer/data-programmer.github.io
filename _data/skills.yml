@@ -41,7 +41,7 @@ technologies:
     - tech: "Mockk"
     - tech: "JUnit"
     - tech: "Espresso"
-    - tech: "KMM"
+    - tech: "KMP"
     - tech: "SQLDelight"
     - tech: "Ktor"
     - tech: "Wear OS"
