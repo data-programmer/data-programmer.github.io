@@ -5,7 +5,7 @@
   showpoints: true
   points:
     - point: "Developed all mobile application features"
-    - point: "Improved unit test coverage from 0% --> 40% in two months and reduced crash rates by 46%"
+    - point: "Improved unit test coverage from 0% to 40% in two months and reduced crash rates by 46%"
     - point: "Created Compose Multiplatform UI to function seamlessly across Android and iOS"
     - point: "Developed multiplatform unit tests for all features of the application"
     - point: "Implemented deep linking and navigation using the Voyager KMP library"
