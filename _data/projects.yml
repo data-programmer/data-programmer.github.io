@@ -1,3 +1,15 @@
+- title: "YouChat"
+  employer: "You.com"
+  tech: "(Kotlin Multiplatform, Android, Compose, Kotlin, Swift, Mokkery, Mockk, Ktor, Coroutines, SQLDelight, Voyager)"
+  desc: "I spearheaded the development of You.com's AI mobile chat app with over 1 million downloads on the Google Play Store. My responsibilities encompassed the entire spectrum of mobile application development. I took the lead in creating and implementing every feature of the application, including Home, Settings, Chat History, Image View, Chat Sharing, Haptics, Freemium, Force Update, In-App Rating, and Network Monitoring. I improved test coverage from 0% to 40% and regularly collaborated with my team to meet deadlines, delivering software solutions that effectively addressed user needs."
+  showpoints: true
+  points:
+    - point: "Developed all mobile application features"
+    - point: "Improved unit test coverage from 0% --> 40% in two months and reduced crash rates by 46%"
+    - point: "Created Compose Multiplatform UI to function seamlessly across Android and iOS"
+    - point: "Developed multiplatform unit tests for all features of the application"
+    - point: "Implemented deep linking and navigation using the Voyager KMP library"
+
 - title: "Land id™ Android"
   employer: "Land id™"
   tech: "(Android, Kotlin, Mockk, Retrofit, Clean, View, Mapbox)"
@@ -201,17 +213,16 @@
     - point: "Used ChatGPT and other AI models to assist with upkeep and improve productivity"
     - point: "Provided services to local Montana business and business within the surrounding region"
 
-- title: "Research Buddy"
+- title: "Montana Road Cams"
   employer: "Personal Project"
-  tech: "(Android, Kotlin, Springer Nature API, CORE, Compose, Hilt, Room, Retrofit, OkHttp, Git)"
-  desc: "Created the Research Buddy app for assisting students with academic research. Research Buddy uses Retrofit for interfacing with the Springer Nature API and CORE while additionally utilizing Room for data persistence and the Hilt framework for dependency injection management."
+  tech: "(Kotlin Multiplatform, Android, iOS, Google Maps, MDT API, Ktor, SQLDelight, Coil)"
+  desc: "Montana Road Cams is a Kotlin Multiplatform mobile application built to enable convenient access to the Montana State road camera system. The mobile app enables users to view current road conditions throughout Montana, helping users to make informed travel decisions."
   showpoints: true
   points:
-    - point: "Implemented Retrofit, Hilt, and Room for HTTP client, dependency injection, and data storage"
-    - point: "Created research article search and bookmarking features improving user research access"
-    - point: "Designed and created flexible Material UI for improving device compatibility"
-    - point: "Leveraged modern Android architecture components and MVVM architecture best practices"
-    - point: "Built research article citation tool for creating MLA, APA, and Chicago citations"
+    - point: "Developed the app using Kotlin Multiplatform and Google Maps"
+    - point: "Implemented Coil to responsively render road camera images"
+    - point: "Deployed the mobile app to the Google Play Store for testing and distribution"
+    - point: "Created the app theme, color palette, and application icon"
 
 - title: "williamkingsley.com"
   employer: "Personal Project"
@@ -223,3 +234,15 @@
     - point: "Hosted by GitHub Pages for quick and easy deployments"
     - point: "Built using the Minimal theme for display compatibility"
     - point: "Applied Custom CSS to personalize Minimal theme"
+
+- title: "Research Buddy"
+  employer: "Personal Project"
+  tech: "(Android, Kotlin, Springer Nature API, CORE, Compose, Hilt, Room, Retrofit, OkHttp, Git)"
+  desc: "Created the Research Buddy app for assisting students with academic research. Research Buddy uses Retrofit for interfacing with the Springer Nature API and CORE while additionally utilizing Room for data persistence and the Hilt framework for dependency injection management."
+  showpoints: true
+  points:
+    - point: "Implemented Retrofit, Hilt, and Room for HTTP client, dependency injection, and data storage"
+    - point: "Created research article search and bookmarking features improving user research access"
+    - point: "Designed and created flexible Material UI for improving device compatibility"
+    - point: "Leveraged modern Android architecture components and MVVM architecture best practices"
+    - point: "Built research article citation tool for creating MLA, APA, and Chicago citations"
