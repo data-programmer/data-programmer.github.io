@@ -2,19 +2,25 @@
 <h2 id="skills">Technical Skills</h2>
 <div>
     <p>
-        <strong>Languages: </strong>
+        <strong>Programming Languages: </strong>
         {% for item in site.data.skills.languages %}
             {{ item.language }}{% if forloop.last %}{% else %}, {% endif %}
         {% endfor %}
     </p>
     <p>
-        <strong>Technologies/Jetpack: </strong>
+        <strong>Frameworks & Libraries: </strong>
         {% for item in site.data.skills.technologies %}
             {{ item.tech }}{% if forloop.last %}{% else %}, {% endif %}
         {% endfor %}
     </p>
     <p>
-        <strong>Tools: </strong>
+        <strong>Android Architecture: </strong>
+        {% for item in site.data.skills.architectures %}
+        {{ item.arch }}{% if forloop.last %}{% else %}, {% endif %}
+        {% endfor %}
+    </p>
+    <p>
+        <strong>Tools & Platforms: </strong>
         {% for item in site.data.skills.tools %}
             {{ item.tool }}{% if forloop.last %}{% else %}, {% endif %}
         {% endfor %}
