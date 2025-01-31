@@ -62,6 +62,7 @@ architectures:
     - arch: "MVI"
     - arch: "Multi-Module"
     - arch: "MVC"
+    - arch: "MVP"
 
 tools:
     - tool: "Android Studio"
