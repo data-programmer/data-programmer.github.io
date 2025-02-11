@@ -13,7 +13,7 @@
 - title: "Land id™ Android"
   employer: "Land id™"
   tech: "(Android, Kotlin, Mockk, Retrofit, Clean, View, Mapbox)"
-  desc: "Developed Land id™ Android app that has over 50,000+ downloads on Google Play Store. My role involved using Android Studio, Dagger 2, Kotlin, XML, Coroutines, and the Jetpack library. I worked closely with a team of contract engineers to design and implement functional software solutions and fix bugs in alignment with business goals."
+  desc: "Developed Land id™ Android app that has over 100,000+ downloads on Google Play Store. My role involved using Android Studio, Dagger 2, Kotlin, XML, Coroutines, and the Jetpack library. I worked closely with a team of contract engineers to design and implement functional software solutions and fix bugs in alignment with business goals."
   showpoints: true
   points:
     - point: "Developed mapping solutions using Mapbox SDK for Discover and My Maps features"
