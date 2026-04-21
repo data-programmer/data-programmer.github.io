@@ -63,6 +63,7 @@ tools:
     - tool: "Xcode"
     - tool: "Visual Studio"
     - tool: "WebStorm"
+    - tool: "Linear"
     - tool: "Azure DevOps"
     - tool: "Jira"
     - tool: "Git"
