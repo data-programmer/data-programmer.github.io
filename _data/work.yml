@@ -1,12 +1,12 @@
-- company: "AppTana, LLC"
-  location: "Great Falls, MT"
-  title: "Founder | Lead Engineer"
-  date: "Sep. 2021 - present"
-
 - company: "Midwestern "
   location: "Great Falls, MT"
   title: "Mobile Developer"
   date: "Nov. 2023 - present"
+
+- company: "AppTana, LLC"
+  location: "Great Falls, MT"
+  title: "Founder | Lead Engineer"
+  date: "Sep. 2021 - present"
 
 - company: "Land id™"
   location: "Great Falls, MT"
@@ -16,7 +16,7 @@
 - company: "care.ai"
   location: "Great Falls, MT"
   title: "Senior Mobile Developer"
-  date: "Jan. 2023 - June 2023"
+  date: "Jan. 2023 - Aug. 2023"
 
 - company: "InRhythm"
   location: "Great Falls, MT"
@@ -33,7 +33,7 @@
   title: "Co-Founder | Android Engineer"
   date: "Mar. 2020 - Apr. 2021"
 
-- company: "MilTech"
+- company: "MilTech at Montana State University"
   location: "Bozeman, MT"
   title: "Full Stack Developer"
   date: "Jan. 2018 - Mar. 2020"

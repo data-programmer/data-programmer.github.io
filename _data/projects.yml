@@ -1,14 +1,18 @@
 - title: "You.com"
   employer: "You.com"
-  tech: "(Kotlin Multiplatform, Android, Compose, Kotlin, Swift, Mokkery, Ktor, Coroutines, SQLDelight, Voyager)"
+  tech: "(Kotlin Multiplatform, Android, Compose, Kotlin, Swift, React, Node.js, Mokkery, Ktor, Coroutines, SQLDelight, Voyager, and many more!)"
   desc: "I spearheaded the development of You.com's AI mobile chat app with over 1 million downloads on the Google Play Store. My responsibilities encompassed the entire spectrum of mobile application development. I took the lead in creating and implementing every feature of the application, including Home, Settings, Chat History, Image View, Chat Sharing, Haptics, Freemium, Force Update, In-App Rating, and Network Monitoring. I improved test coverage from 0% to 40% and regularly collaborated with my team to meet deadlines, delivering software solutions that effectively addressed user needs."
   showpoints: true
   points:
+    - point: "Spearheaded the development of You.com’s mobile app by implementing Kotlin Multiplatform, reducing time-to-market by 31% and driving a 27% increase in daily active users"
     - point: "Developed all mobile application features"
-    - point: "Improved unit test coverage from 0% to 40% in two months and reduced crash rates by 46%"
+    - point: "Refactored and optimized API endpoint code for You.com’s web app, significantly improving code maintainability, reducing technical debt, and enhancing system performance to meet business needs"
     - point: "Created Compose Multiplatform UI to function seamlessly across Android and iOS"
-    - point: "Developed multiplatform unit tests for all features of the application"
+    - point: "Implemented a multiplatform testing strategy that increased test coverage from 0% to 40% in two months, resulting in higher-quality releases and a 38% reduction in production crash rates"
+    - point: "Collaborated with cross-functional teams, including product managers, and designers to implement innovative new features and improve the scalability of the web application for growing user demands"
+    - point: "Streamlined CI/CD pipelines by automating production releases with Bitrise, while ensuring continuous release quality through integrated linters, regression tests, and regular fuzzing tests"
     - point: "Implemented deep linking and navigation using the Voyager KMP library"
+    - point: "Collaborated closely with cross-functional teams (design, analytics, business) to refine user journeys, translating feature usage analytics into actionable insights, driving an 18% uptick in premium purchases"
 
 - title: "Land id™ Android"
   employer: "Land id™"
